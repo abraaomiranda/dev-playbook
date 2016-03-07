@@ -59,4 +59,4 @@ No momento, estamos estudando começar a trabalhar com integração contínua di
 
 ## Qualidade de Código
 
-Sugerimos algumas coisas a serem feitas para garantir a qualidade do código e a performance dos nossos sistemas! Além do code-review e pair programming, temos alguns checkups simples que você pode fazer para analizar o seu código. Acesse os nossos (guias de qualidade de código)[qualityguides/main.md]
+Sugerimos algumas coisas a serem feitas para garantir a qualidade do código e a performance dos nossos sistemas! Além do code-review e pair programming, temos alguns checkups simples que você pode fazer para analizar o seu código. Acesse os nossos [guias de qualidade de código](qualityguides/main.md)
