@@ -47,3 +47,10 @@ Acesse o nosso [guia de testes Rails](testing/rails/main.md) para exemplos. Ente
 ## Refatoração
 
 Acreditamos fortemente no lema de Red-Green-Refactoring, e sabemos que a refatoração é uma parte fundamental do desenvolvimento. Sempre que terminar uma funcionalidade, pense 'Como eu posso melhorar isso?'. Tente ao máximo não deixar para depois, pois é muito fácil um projeto rápidamente virar um elefante branco no qual ninguém tem coragem de mexer, mesmo com cobertura forte! Caso acredite que um módulo inteiro possa ser melhorado, converse com a sua equipe! Talvez seja possível parar um sprint ou parte dele para refazer uma parte inteira do sistema que ficou complexa. Qualidade não é negociável para nós, e todos devem trabalhar para melhorar cada vez mais os nossos softwares :) Seja pro-ativo (leia-se: Encha o saco mesmo!)
+
+## Code Reviews
+
+Revisões de código. Primeiro, é bom salientar que uma revisão de código não é apenas para desenvolvedores novos. Todo desenvolvedor deveria ter seu código revisado por um outro desenvolvedor. Além de ser um momento em que muitos bugs podem ser encontrados antes de entrarem em produção, a troca de experiência desse momento pode ser enorme. Tem dúvidas de porque alguém fez alguma coisa de uma certa forma? Pergunte. Tem dúvidas sobre como desenvolver uma funcionalidade diferentes? Pergunte!
+Infelizmente, ainda não possuímos um fluxo de trabalho com git que force a revisão de código, e atualmente dependemos da proatividade de todos da equipe para que as revisões sejam feitas. Experimente com a sua equipe formas de revisões de código e nos ajude a evoluir esse quesito!
+
+
