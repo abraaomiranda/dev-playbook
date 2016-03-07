@@ -27,20 +27,20 @@ Por que TDD? Citando o Playbook da Thoughtbot:
 
 Benefícios para a empresa:
 
-    Entregar valor mais rápido
-    Todo código que vai a produção provavelmente está funcionando
-    Adaptações são rápidas
+* Entregar valor mais rápido
+* Todo código que vai a produção provavelmente está funcionando
+* Adaptações são rápidas
   
 Benefícios de código:
 
-    Testes e código ficam mais legíveis
-    Interface pública limpa e bem definida
-    Desacoplamento de código.
+* Testes e código ficam mais legíveis
+* Interface pública limpa e bem definida
+* Desacoplamento de código.
 
 Benefícios de processo:
 
-    Regressão fácil
-    Refatoração sem medo. Você saberá no que a sua mudança impacta.
+* Regressão fácil
+* Refatoração sem medo. Você saberá no que a sua mudança impacta.
 
 Acesse o nosso [guia de testes Rails](testing/rails/main.md) para exemplos. Entendemos que nem todos conseguem começar com TDD, e o nosso objetivo é que sistemas novos devem ter 100% de cobertura de testes. Ainda não consegue fazer TDD? Tudo bem! Mas entregar código não testado é inaceitável, peça ajuda ao seu líder técnico para te dar aulas bases de como testar. :)
 
