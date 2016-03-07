@@ -19,3 +19,27 @@ Temos guias pequenos de estilos de código para [ruby](styleguides/ruby.md) e [r
 ## Pair Programming
 
 Não existe nada melhor que pair programming para um desenvolvedor. Duas mentes pensam melhor que uma, e um código desenvolvido por duas pessoas obviamente é melhor que o desenvolvido por uma só, além de toda a troca de experiência instantânea que ocorre durante o pair programming. Porém, sabemos que nem sempre é possível trabalhar dessa forma. Caso você esteja com dificuldades para desenvolver uma tarefa, ou creia que ela seja extremamente crítica e você precisa de mais um olho sobre o código, solicite um pair programming com alguém da sua equipe, você sentirá os benefícios na hora!
+
+## Test-Driven Development (TDD)
+
+Sabemos das dificuldades de uma pessoa iniciando na linguagem (ou até mesmo experts nela) com TDD, e a sua equipe estará sempre disponível para ajudar.
+Por que TDD? Citando o Playbook da Thoughtbot:
+
+Benefícios para a empresa:
+
+    Entregar valor mais rápido
+    Todo código que vai a produção provavelmente está funcionando
+    Adaptações são rápidas
+  
+Benefícios de código:
+
+    Testes e código ficam mais legíveis
+    Interface pública limpa e bem definida
+    Desacoplamento de código.
+
+Benefícios de processo:
+
+    Regressão fácil
+    Refatoração sem medo. Você saberá no que a sua mudança impacta.
+
+Acesse o nosso [guia de testes Rails](testing/rails/main.md) para exemplos. Entendemos que nem todos conseguem começar com TDD, e o nosso objetivo é que sistemas novos devem ter 100% de cobertura de testes. Ainda não consegue fazer TDD? Tudo bem! Mas entregar código não testado é inaceitável, peça ajuda ao seu líder técnico para te dar aulas bases de como testar. :)
