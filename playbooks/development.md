@@ -10,3 +10,8 @@ Para as nossas práticas, nomes como Kent Beck, Martin Fowler, Bob Martin e Sand
 Trabalhamos com [Git](http://git-scm.com/) para controle de versão, pois adoramos a facilidade de branching e merging que ele nos dá. Temos o nosso [repositório público no github](https://github.com/sti-uff), onde está atualmente esse guia, e o nosso repositório privado para desenvolvimento, o [Gitlab](https://about.gitlab.com/). Ainda não utilizamos tudo o que o Gitlab nos permite, mas estamos trabalhando nisso! Caso você ainda não tenha acesso ao [nosso repositório de gitlab](https://sistemas.uff.br/sti/git/), informe o seu mentor/gerente.
 
 Trabalhamos com 3 branches principais, a 'master' para desenvolvimento, 'homologacao' para homologarmos o sistema com o cliente e a branch de 'producao'. A princípio você trabalhará na master, podendo criar suas próprias branches conforme a tarefa demandar. Em breve pretendemos começar a trabalhar com pull requests, então possívelmente revisaremos as nossas branches. Os merges para homologação e produção costumam ser feitos pelo líder técnico da equipe, responsável por revisar o seu código. Note que uma revisão de código NÃO É para censurar o desenvolvedor, e sim auxiliá-lo em sua evolução pessoal, tal como melhorar a qualidade do sistema. :)
+
+## Guia de estilo de código
+
+Acreditamos que um guia de estilo de código é fundamental a uma equipe. Um código é usualmente escrito uma vez e lido diversas vezes, portanto quanto mais claro e padronizado for o seu código, melhor será para todos que trabalharem com ele, agora ou futuramente.
+Temos guias pequenos de estilos de código para [ruby](styleguides/ruby.md) e [rails](styleguides/rails.md). Planejamos liberar guias para Java e PHP futuramente.
