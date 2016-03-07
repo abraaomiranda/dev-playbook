@@ -1,5 +1,5 @@
-# STI - dev-playbook
-Guia referencial para desenvolvedores da Superintendência de Tecnologia da Informação (STI) da Universidade Federal Fluminense.
+# STI - Playbook
+Guia referencial para desenvolvedores da Superintendência de Tecnologia da Informação (STI) da Universidade Federal Fluminense (UFF).
 
 # Olá.
 Esse guia foi desenvolvido para auxiliar desenvolvedores da STI novos e antigos, além de mostrar a forma com a qual trabalhamos para pessoas que queiram trabalhar conosco. :)
@@ -13,6 +13,8 @@ Focaremos aqui em duas coisas: as práticas de desenvolvimentos, e os processos 
 Acesse o [Playbook de desenvolvimento](playbooks/development.md) ou o [Playbook de processos](playbook/processes.md) para continuar.
 
 Caso você seja uma pessoa nova entre nós, seja bem vinda, pessoa! <3
+
+(Esse playbook foi desenvolvido em uma noite de insônia e deve ser mantido por muitas e muitas tardes, contribua!)
 
 
 
