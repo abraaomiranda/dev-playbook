@@ -56,3 +56,7 @@ Infelizmente, ainda não possuímos um fluxo de trabalho com git que force a rev
 ## Integração contínua
 
 No momento, estamos estudando começar a trabalhar com integração contínua diretamente no Gitlab, pois nossos esforços anteriores com o Jenkins não atenderam todas as nossas necessidades. De qualquer forma, desejamos que o desenvolvedor rode os testes do sistema antes de realizar um commit, verificando se tudo está passando, e verificando a cobertura de código. Temos ferramentas como simplecov para Rails para auxiliar na verificação da cobertura de código. Em breve, a nossa ferramenta de integração contínua rodará todos os testes do sistema, permitindo merges para homologação e produção apenas de commits que não quebrem nenhum teste! :D
+
+## Qualidade de Código
+
+Sugerimos algumas coisas a serem feitas para garantir a qualidade do código e a performance dos nossos sistemas! Além do code-review e pair programming, temos alguns checkups simples que você pode fazer para analizar o seu código. Acesse os nossos (guias de qualidade de código)[qualityguides/main.md]
