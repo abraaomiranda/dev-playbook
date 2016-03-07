@@ -43,3 +43,7 @@ Benefícios de processo:
     Refatoração sem medo. Você saberá no que a sua mudança impacta.
 
 Acesse o nosso [guia de testes Rails](testing/rails/main.md) para exemplos. Entendemos que nem todos conseguem começar com TDD, e o nosso objetivo é que sistemas novos devem ter 100% de cobertura de testes. Ainda não consegue fazer TDD? Tudo bem! Mas entregar código não testado é inaceitável, peça ajuda ao seu líder técnico para te dar aulas bases de como testar. :)
+
+## Refatoração
+
+Acreditamos fortemente no lema de Red-Green-Refactoring, e sabemos que a refatoração é uma parte fundamental do desenvolvimento. Sempre que terminar uma funcionalidade, pense 'Como eu posso melhorar isso?'. Tente ao máximo não deixar para depois, pois é muito fácil um projeto rápidamente virar um elefante branco no qual ninguém tem coragem de mexer, mesmo com cobertura forte! Caso acredite que um módulo inteiro possa ser melhorado, converse com a sua equipe! Talvez seja possível parar um sprint ou parte dele para refazer uma parte inteira do sistema que ficou complexa. Qualidade não é negociável para nós, e todos devem trabalhar para melhorar cada vez mais os nossos softwares :) Seja pro-ativo (leia-se: Encha o saco mesmo!)
