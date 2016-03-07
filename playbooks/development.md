@@ -15,3 +15,7 @@ Trabalhamos com 3 branches principais, a 'master' para desenvolvimento, 'homolog
 
 Acreditamos que um guia de estilo de código é fundamental a uma equipe. Um código é usualmente escrito uma vez e lido diversas vezes, portanto quanto mais claro e padronizado for o seu código, melhor será para todos que trabalharem com ele, agora ou futuramente.
 Temos guias pequenos de estilos de código para [ruby](styleguides/ruby.md) e [rails](styleguides/rails.md). Planejamos liberar guias para Java e PHP futuramente.
+
+## Pair Programming
+
+Não existe nada melhor que pair programming para um desenvolvedor. Duas mentes pensam melhor que uma, e um código desenvolvido por duas pessoas obviamente é melhor que o desenvolvido por uma só, além de toda a troca de experiência instantânea que ocorre durante o pair programming. Porém, sabemos que nem sempre é possível trabalhar dessa forma. Caso você esteja com dificuldades para desenvolver uma tarefa, ou creia que ela seja extremamente crítica e você precisa de mais um olho sobre o código, solicite um pair programming com alguém da sua equipe, você sentirá os benefícios na hora!
