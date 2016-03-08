@@ -20,7 +20,7 @@ Um bom guia para testes em Rails pode ser lido no próprio [Rails Guides](http:/
 Todas as aplicações devem ter:
 * Testes Unitários, tipicamente em `specs/models/` onde os modelos e outras classes são testadas unitariamente. Temos um [exemplo](samples/model.rb) pronto. 
 * Testes de Controller, em `specs/controllers/` onde realizamos testes funcionais de nossos controllers. Também temos um [exemplo](samples/controller.rb) disso.
-* Feature tests, em `specs/features` onde realizamos testes de funcionalidades do sistema. Sim, [tá mastigadinho também](http://guides.rubyonrails.org/testing.html).
+* Feature tests, em `specs/features` onde realizamos testes de funcionalidades do sistema. Sim, [tá mastigadinho também](samples/feature.rb).
 
 E testes de rota? Vale a pena ler uma [postagem no blog da He:Labs sobre](http://helabs.com/blog/2014/03/18/routes-to-spec-or-not-to-spec-in-a-rails-app/).
 Nossa recomendação é: se você está apenas usando `resources :recurso`, não cobraremos isso. Se você está adicionando várias opções e etc, por que não? 
