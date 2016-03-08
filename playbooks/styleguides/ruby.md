@@ -5,5 +5,5 @@ Uma versão bem menor que é interessante dar uma lida por ser mais breve e dire
 
 Importante ressaltar:
 * Siga o guia de estilos sempre que possível
-* Quando houverem mais de uma possibilidade, escolha com a equipe a que preferem.
+* Quando houver mais de uma possibilidade, escolha com a equipe a que preferem.
 * Não altere código legado para que apenas um arquivo siga o guia de estilos. Ou o projeto todo deve ser refatorado, ou o que está quebrando o guia de estilos daquele projeto em particular é o seu commit.
