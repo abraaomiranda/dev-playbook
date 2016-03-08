@@ -4,7 +4,7 @@ Guia referencial para desenvolvedores da Superintendência de Tecnologia da Info
 # Olá.
 Esse guia foi desenvolvido para auxiliar desenvolvedores da STI novos e antigos, além de mostrar a forma com a qual trabalhamos para pessoas que queiram trabalhar conosco. :)
 
-Mais importanto que esse guia, saiba que você pode sempre tirar suas dúvidas com o líder técnico ou gerente associado à sua equipe. Comunicação é essencial pra nós.
+Mais importante que esse guia, saiba que você pode sempre tirar suas dúvidas com o líder técnico ou gerente associado à sua equipe. Comunicação é essencial pra nós.
 
 Boa parte do nosso dia-a-dia de desenvolvimento estará listado aqui, como planejamento inicial de um sistema, planning-poker, reuniões com clientes, desenhos de telas, processos de desenvolvimento, versionamento de código, comunicação interna e entre-equipes, boas práticas de desenvolvimento, guia de estilo de código, TDD, BDD, deploy, geração de logs, entre outros tópicos.
 
