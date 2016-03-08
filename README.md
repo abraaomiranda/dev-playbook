@@ -10,7 +10,7 @@ Boa parte do nosso dia-a-dia de desenvolvimento estará listado aqui, como plane
 
 Focaremos aqui em duas coisas: as práticas de desenvolvimentos, e os processos que seguimos. Ambas são igualmente importantes para que tudo saia bonitinho no final. 
 
-Acesse o [Playbook de desenvolvimento](playbooks/development.md) ou o [Playbook de processos](playbook/processes.md) para continuar.
+Acesse o [Playbook de desenvolvimento](playbooks/development.md) ou o [Playbook de processos](playbooks/processes.md) para continuar.
 
 Caso você seja uma pessoa nova entre nós, seja bem vinda, pessoa! <3
 
