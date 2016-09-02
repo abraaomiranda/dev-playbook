@@ -13,7 +13,7 @@ Para melhor padronizar os nossos sistemas Rails, seguimos as seguintes regras:
 
 Para verificar a cobertura de nossos testes, usamos a gem [simplecov](https://github.com/colszowka/simplecov)
 
-Para facilitar o setup de todas essas ferramentas, o nosso Projeto Padrão Rails ([link no gitlab](https://sistemas.uff.br/sti/git/cds/projeto_padrao_rails)) já vem com tudo isso configurado.
+Para facilitar o setup de todas essas ferramentas, o nosso Projeto Padrão Rails ([link no gitlab](https://sistemas.uff.br/sti/gitlab/apps/projeto-padrao-rails)) já vem com tudo isso configurado.
 
 Um bom guia para testes em Rails pode ser lido no próprio [Rails Guides](http://guides.rubyonrails.org/testing.html)
 
