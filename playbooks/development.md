@@ -3,7 +3,7 @@
 Esse playbook foi criado com as nossas práticas do dia-a-dia e com ajuda inspiracional do [playbook da thoughtbot(em inglês)](https://playbook.thoughtbot.com/#developing).
 
 Acreditamos fortemente em [Extreme Programming](https://en.wikipedia.org/wiki/Extreme_programming), trabalhando com sprints de 15 dias para entregas de requisitos. Isso nos ajuda a trabalhar melhor, mantendo a qualidade do sistema e deixando nossos desenvolvedores felizes. :) 
-Para as nossas práticas, nomes como Kent Beck, [Martin Fowler](http://martinfowler.com/), Bob Martin e [Sandi Metz](http://www.sandimetz.com/) são muito importantes para nós.
+Para as nossas práticas, nomes como Kent Beck, [Martin Fowler](http://martinfowler.com/), [Bob Martin](http://blog.cleancoder.com/) e [Sandi Metz](http://www.sandimetz.com/) são muito importantes para nós.
 
 ## Controle de Versão
 
